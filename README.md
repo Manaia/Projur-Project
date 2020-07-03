@@ -11,6 +11,9 @@ Esse projeto consiste em um CRUD, o back-end foi escrito em .NET Core utilizando
 // instalar todas as dependências do package.json
 npm install
 
+// compilar o projeto
+ng build
+
 // iniciar a aplicação
 ng serve -o
 
